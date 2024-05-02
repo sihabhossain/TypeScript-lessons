@@ -36,7 +36,7 @@ const UserDetails = {
   },
 };
 
-const Address =
-  UserDetails?.address?.permanentAddress ?? "no permanent address";
+// const Address =
+//   UserDetails?.address?.permanentAddress ?? "no permanent address";
 
-console.log({ Address });
+// console.log({ Address });
